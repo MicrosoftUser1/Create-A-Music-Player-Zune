@@ -29,5 +29,17 @@ This image may take a few minutes to refresh.
 
 #### Metadata (used for search, rendering)
 
+## How to control
+Use the dpad to open the music
+When selected a music, press A to play the music
+If you want to pause the music, press B to stop.
+To play another music do the same steps as line 35 and choose another song.
+
+## SONG LIST BY DPAD
+up:falling-blossoms
+down:jolliest-of-rogers
+left:curious-blob
+right:bow-the-mighty-oak
+
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
